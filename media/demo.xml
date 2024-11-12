@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Positions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Flextrade-BOS-Positions.xsd" ProcessingMode="BatchInsertOrUpdate">
+
+  <InsertOne>
+    <ClientCode>1</ClientCode>
+    <SecurityCode><![CDATA[AMCL(PRAN)]]></SecurityCode>
+    <ISIN><![CDATA[BD0277AMCL01]]></ISIN>
+    <Quantity>2150</Quantity>
+    <TotalCost>489727</TotalCost>
+    <PositionType>Long</PositionType>
+  </InsertOne>
+  <InsertOne>
+    <ClientCode>1</ClientCode>
+    <SecurityCode><![CDATA[ACI]]></SecurityCode>
+    <ISIN><![CDATA[BD0455ACI002]]></ISIN>
+    <Quantity>1</Quantity>
+    <TotalCost>0</TotalCost>
+    <PositionType>Long</PositionType>
+  </InsertOne>
+  <InsertOne>
+    <ClientCode>1</ClientCode>
+    <SecurityCode><![CDATA[CVOPRL]]></SecurityCode>
+    <ISIN><![CDATA[BD0269CVOIL9]]></ISIN>
+    <Quantity>1760</Quantity>
+    <TotalCost>435582.4</TotalCost>
+    <PositionType>Long</PositionType>
+  </InsertOne>
+
+</Positions>

@@ -1,0 +1,7 @@
+from flask_restful import Resource, Api
+
+'/e/qfl-codes/qfl-task/media' -- path alternative demo
+
+source venv/Scripts/activate
+
+celery -A app.celery worker --loglevel=info

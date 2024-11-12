@@ -1,0 +1,12 @@
+GET http://127.0.0.1:5000/dashboard
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyMjg2NTQ5MiwianRpIjoiZDNjOWI2N2YtMzI0Zi00NmYzLTlkZTctNWVmMzBmNWMyNDdhIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6MSwibmJmIjoxNzIyODY1NDkyLCJjc3JmIjoiNDNjZDA2MTktOGIyZi00ZDVhLThkOWUtYTE3MWUyYzk0MGFkIiwiZXhwIjoxNzIyODY2MzkyfQ.ubczbM1xL4ObMrT3FySan6pJoqKtUS4qZWlDmpvQyio
+
+
+# ###
+
+
+# Demo Json
+# {
+#     "name": "ayon",
+#     "description": "this is description."
+# }
